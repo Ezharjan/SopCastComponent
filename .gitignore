@@ -1,4 +1,3 @@
-*.bat
 *.iml
 .gradle
 /local.properties
